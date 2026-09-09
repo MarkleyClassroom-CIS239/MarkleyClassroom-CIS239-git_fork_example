@@ -6,6 +6,10 @@
     <title>Chapter 3</title>
 </head>
 <body>
+
+    <?php
+        echo ("hello again");
+    ?>
     
 </body>
 </html>
